@@ -1,0 +1,6 @@
+John - Salesman
+Jim - Salesman
+Pamela - Receptionist 
+Oliver - Manager
+Oscar - Accountant
+Atta - Human Resources
